@@ -19,8 +19,8 @@ Impact: This project aims to dramatically reduce response times to road accident
 
 This project involves developing a sophisticated system to detect road accidents in real-time using Convolutional Neural Networks (CNNs). The system processes video feeds from traffic cameras, detects accidents, and sends immediate alerts to nearby police stations. Below is a detailed description of the coding work done to achieve these objectives.
 
-**1. Data Collection and Preprocessing
-**
+1. Data Collection and Preprocessing
+
 a) Video Feed Capture:
 * Utilized OpenCV to capture video feeds from traffic cameras.
 * Implemented code to read video frames in real-time and handle potential read errors.
@@ -28,9 +28,9 @@ a) Video Feed Capture:
 b) Frame Preprocessing:
 * Resized frames, normalized pixel values, and applied necessary transformations to enhance the detection accuracy.
 
-2. Model Development
+  2. Model Development
 
-a) CNN Model Architecture:
+  a) CNN Model Architecture:
 * Built a CNN model using TensorFlow and Keras to detect accidents from video frames.
 * Included convolutional layers, pooling layers, and fully connected layers to extract and classify features.
   
