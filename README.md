@@ -28,9 +28,9 @@ a) Video Feed Capture:
 b) Frame Preprocessing:
 * Resized frames, normalized pixel values, and applied necessary transformations to enhance the detection accuracy.
 
-  2. Model Development
+2. Model Development
 
-  a) CNN Model Architecture:
+a) CNN Model Architecture:
 * Built a CNN model using TensorFlow and Keras to detect accidents from video frames.
 * Included convolutional layers, pooling layers, and fully connected layers to extract and classify features.
   
