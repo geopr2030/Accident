@@ -17,7 +17,7 @@ Impact: This project aims to dramatically reduce response times to road accident
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
-This project involves developing a sophisticated system to detect road accidents in real-time using Convolutional Neural Networks (CNNs). The system processes video feeds from traffic cameras, detects accidents, and sends immediate alerts to nearby police stations. Below is a detailed description of the coding work done to achieve these objectives.
+Below is a detailed description of the coding work done to achieve these objectives.
 
 1. Data Collection and Preprocessing
 
